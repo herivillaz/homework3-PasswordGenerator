@@ -5,6 +5,8 @@ Password Generator
 
 ![password generator demo](/Assets/03-javascript-homework-demo.png)
 
+## You can acces here: https://herivillaz.github.io/homework3-PasswordGenerator/
+
 This project was made taking in consideration the following requirements in classes:
 ## Acceptance Criteria
 
