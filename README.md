@@ -7,6 +7,8 @@ Password Generator
 
 ## You can acces here: https://herivillaz.github.io/homework3-PasswordGenerator/
 
+![video](/Assets/video.gif)
+
 This project was made taking in consideration the following requirements in classes:
 ## Acceptance Criteria
 
